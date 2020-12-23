@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="pokemon_text">18sp</dimen>
+    <dimen name="pokemon_image_width">100dp</dimen>
+    <dimen name="pokemon_image_height">100dp</dimen>
+    <dimen name="pokemon_display_title">28sp</dimen>
+    <dimen name="switch_text">14sp</dimen>
+    <dimen name="encounter_counter">60sp</dimen>
+    <dimen name="counter_button">24sp</dimen>
+    <dimen name="pokemon_view_image_width">175dp</dimen>
+    <dimen name="pokemon_view_image_height">175dp</dimen>
+    <dimen name="search_button">14dp</dimen>
+    <dimen name="search_field">18dp</dimen>
+</resources>

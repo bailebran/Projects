@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">PokeTracker</string>
+    <string name="title_activity_pokedex">Pokedex</string>
+    <string name="hunting">Caza</string>
+    <string name="pokedex">Pokedex</string>
+    <string name="search_button">Buscar</string>
+    <string name="loading_pokedex">Cargando Pokedex ...</string>
+    <string name="pokemon_added">Pokemon Añadido!</string>
+    <string name="pokemon_deleted">Pokémon Eliminado!</string>
+    <string name="pokedex_error">Error al cargar Pokedex</string>
+    <string name="id_formatting">#%d</string>
+    <string name="encounters_formatting">%d encuentros</string>
+    <string name="currently_hunting">Actualmente Cazando</string>
+    <string name="completed">Terminado</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="image_description">Imagen de Pokémon mostrado</string></resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PokeTracker</string>
+    <string name="title_activity_pokedex">Pokedex</string>
+    <string name="hunting">Hunting</string>
+    <string name="pokedex">Pokedex</string>
+    <string name="search_button">Search</string>
+    <string name="loading_pokedex">Loading Pokedex...</string>
+    <string name="pokemon_added">Pokemon Added!</string>
+    <string name="pokemon_deleted">Pokemon Deleted!</string>
+    <string name="pokedex_error">Error Loading Pokedex</string>
+    <string name="id_formatting">#%d</string>
+    <string name="encounters_formatting">%d encounters</string>
+    <string name="currently_hunting">Currently Hunting</string>
+    <string name="completed">Completed</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="image_description">Image of displayed pokemon</string>
+    <string name="add_to_hunting">Pokemon added to hunting list!</string>
+    <string name="removed_from_hunting">Pokemon removed from hunting list!</string>
+    <string name="added_to_completed">Pokemon added to completed list!</string>
+    <string name="removed_from_completed">Pokemon removed from completed list!</string>
+    <string name="pokemon_view">Pokemon View</string>
+</resources>

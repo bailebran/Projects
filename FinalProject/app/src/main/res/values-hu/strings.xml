@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeTracker</string>
+    <string name="title_activity_pokedex">Pokedex</string>
+    <string name="hunting">Vadászat</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="search_button">Keresés</string>
+    <string name="loading_pokedex">Pokédex töltése...</string>
+    <string name="pokemon_added">Pokémon hozzáadva!</string>
+    <string name="pokemon_deleted">Pokémon törölve!</string>
+    <string name="pokedex_error">Hiba történt a pokédex töltése közben</string>
+    <string name="id_formatting">#%d</string>
+    <string name="encounters_formatting">%d Találkozás</string>
+    <string name="currently_hunting">Folyamatban lévo vadászat</string>
+    <string name="completed">Befejezett</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="image_description">Kép a kiválasztott Pokémonról</string>
+</resources>
