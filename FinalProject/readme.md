@@ -7,5 +7,5 @@ Poketrack is an app developed to keep track of shiny Pokemon encounters on the g
 - Mark Pokemon completed once they're finished
 
 ### Preview Images
-<img src="previewimages/pokedex_tab.png" width="360" height="640"><img src="previewimages/hunting_tab.png" width="360" height="640">
-<img src="previewimages/completed_tab.png" width="360" height="640"><img src="previewimages/pokemon_view.png" width="360" height="640">
+<img src="previewimages/pokedex_tab.png" width="360" height="640">     <img src="previewimages/hunting_tab.png" width="360" height="640">
+<img src="previewimages/completed_tab.png" width="360" height="640">     <img src="previewimages/pokemon_view.png" width="360" height="640">
