@@ -1,2 +1,2 @@
-# Projects
-Poketrack
+# Poketrack - Mobile Shiny Pokemon Tracker
+
