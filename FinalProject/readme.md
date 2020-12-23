@@ -1,1 +1,1 @@
-# PokeTrack
+# PokeTrack - Mobile Shiny Pokemon Tracker
